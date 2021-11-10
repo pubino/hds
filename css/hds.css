@@ -9,8 +9,6 @@ body {
 
 a, a:hover {
   /*	color: #E6863E; */
-  font-size: 18px;
-  font-weight: bold;
 }
 
 ul.menu a.is-active {
