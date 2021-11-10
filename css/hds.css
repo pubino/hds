@@ -8,11 +8,11 @@ body {
 }
 
 a, a:hover {
-  color: #E6863E;
+  /*	color: #E6863E; */
 }
 
 ul.menu a.is-active {
-  color: #E6863E;
+  /* color: #E6863E; */
 }
 
 #branding {
@@ -321,4 +321,4 @@ h3 {
   padding-bottom: 0;
 }
 
-/*# sourceMappingURL=pds.css.map */
+/*# sourceMappingURL=hds.css.map */
